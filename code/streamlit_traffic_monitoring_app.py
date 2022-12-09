@@ -14,6 +14,9 @@ from datetime import timedelta
 
 import plotly.graph_objects as go
 
+cwd = os.getcwd()
+print(cwd)
+
 
 
 #################
